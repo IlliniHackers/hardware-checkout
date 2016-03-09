@@ -45,5 +45,5 @@ Item        | Quantity           | Purchase Price  | Description |
 |Microsoft LifeCam Cinema Webcam| 5 | $20 |		This full featured Microsoft webcam, LifeCam Cinema, with true 720p HD video, delivers smooth, detailed video.|
 |Motor Shield| 12 | $5|	A dual full-bridge driver designed to drive inductive loads such as relays, solenoids, DC and stepping motors.|
 |Nexus 5|	4 | $50 |		An Android smartphone that runs the latest version of stock Android.|
-|Parrot AR Drone 2.0|	3| | $100|		A Wi-Fi Controlled quadricopter, controlled by a phone, tablet, or code.|
+|Parrot AR Drone 2.0|	3| $100|		A Wi-Fi Controlled quadricopter, controlled by a phone, tablet, or code.|
 
