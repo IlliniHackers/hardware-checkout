@@ -22,6 +22,7 @@ Please contact us directly. We will be able to setup longer duration or rentals 
 ### Hardware Lab Contents
 Here's what is in our hardware lab. This list is not kept up to date in terms of quantity. We'll try and acquire more throughout the year:
 
-Item        | Quantity           | Purchase Price  |
-| ------------- |-------------| -----|
-| Placeholder    | Text | $000 |
+Item        | Quantity           | Purchase Price  | Description |
+| ------------- |-------------| -----| --------|
+| Arduino GPS Shield    | 3 | $10 | Shield to add GPS functionality to your Arduino hack. |
+
